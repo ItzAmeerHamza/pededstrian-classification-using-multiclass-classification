@@ -1,6 +1,6 @@
 Hello!
 
-In this project I have performed multiclass classification on pedestrians data with 8 different classes. The dataset used in this project can be found in this [link](https://drive.google.com/drive/folders/1RwcRXnAN8ySxnEio8onxYQkaGnXdXKyk)https://drive.google.com/drive/folders/1RwcRXnAN8ySxnEio8onxYQkaGnXdXKyk).
+In this project I have performed multiclass classification on pedestrians data with 8 different classes. The dataset used in this project can be found in this [link](https://drive.google.com/drive/folders/1RwcRXnAN8ySxnEio8onxYQkaGnXdXKyk).
 
 This dataset contains eight folders as 0, 45, 90, 135, 180, 225, 270, and 135. These foldes represents the class title for our multiclass classification problem.Inside these folders images representing these classes are present.
 <br />
